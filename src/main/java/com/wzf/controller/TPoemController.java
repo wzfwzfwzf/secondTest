@@ -42,7 +42,7 @@ public class TPoemController {
     private RedisTemplate redisTemplate;
 
     public void test() {
-˚
+        System.out.println("dev2");
 
     }
 
