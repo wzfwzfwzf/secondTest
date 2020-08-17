@@ -42,7 +42,6 @@ public class TPoemController {
     private RedisTemplate redisTemplate;
 
     public void test() {
-˚
 
     }
 
