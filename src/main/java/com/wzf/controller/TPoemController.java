@@ -45,6 +45,8 @@ public class TPoemController {
         System.out.println("dev");
         System.out.println("master");
         System.out.println("dev2");
+        System.out.println("stash");
+        System.out.println("pull");
     }
 
 }
